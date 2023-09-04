@@ -1,5 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
+## Hobby Projects
+- **Typescript/NodeJS Projects**
+  - [Disord Economy Bot](https://github.com/prof-egg/baecon-bot)
+ 
+  
 <!--
 **prof-egg/prof-egg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
